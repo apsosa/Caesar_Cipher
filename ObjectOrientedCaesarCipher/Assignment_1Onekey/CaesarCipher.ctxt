@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CaesarCipher
+comment0.text=\n\ Write\ a\ description\ of\ class\ CaesarCipher\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=key
+comment1.target=CaesarCipher(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CaesarCipher\n
+comment2.params=chr
+comment2.target=char\ encryptChar(char)
+comment3.params=input
+comment3.target=java.lang.String\ encrypt(java.lang.String)
+comment4.params=encrypted
+comment4.target=java.lang.String\ decrypt(java.lang.String)
+numComments=5

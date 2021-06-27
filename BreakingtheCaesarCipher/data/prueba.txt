@@ -1,0 +1,6 @@
+
+prubra para ver que imprime este archivo
+deberia imprimir cada palabra segun lo entiendo
+pero no es coherente lo que esta imprimiendo
+lo cual puede ser debido a que el texto es muy extenso y 
+blue j no no tiene mucha capacidad
